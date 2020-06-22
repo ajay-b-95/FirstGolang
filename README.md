@@ -1,4 +1,4 @@
-# FirstGolang
+# API_Golang
 cab booking web API using Golang echo 
 
 There are 3 end points covered, and all the code is written in the echo framework.
