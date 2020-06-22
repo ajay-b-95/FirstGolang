@@ -2,7 +2,7 @@ package location
 
 import "fmt"
 
-//to be imported
+//to be exported
 type Location struct {
 	Pickloca int64 `json:"Pickloca"`
 	Picklocb int64 `json:"Picklocb"`
